@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<online-store>
+    <grocery>
+        <cofee>
+            <nescafe>
+                <item>1</item>
+                <name>Shampoo</name>
+                <pric>500</pric>
+
+                <item>2</item>
+                <name>gold blend</name>
+                <price>900</price>
+            </nescafe>
+        </cofee>
+
+        <frozen-item>
+            <sufi>
+                <item>1</item>
+                <name>Samosa </name>
+                <price>200</price>
+
+                <item>2</item>
+                <name>Chicken patties</name>
+                <price>400</price>
+            </sufi>
+        </frozen-item>
+    </grocery>
+</online-store>
